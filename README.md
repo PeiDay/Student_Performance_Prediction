@@ -50,7 +50,6 @@ After testing and training the model, we gathered poverty rate, median household
 
 ![Pred_by_county.png](https://github.com/PeiDay/Student_Performance_Prediction/blob/main/static/images/Pred_by_county.png)
 
-* National Analysis
 ![Pred_Try_yours.png](https://github.com/PeiDay/Student_Performance_Prediction/blob/main/static/images/Pred_Try_yours.png)
 
 

@@ -12,17 +12,13 @@ from sklearn.metrics import accuracy_score
 import os
 import numpy as np
 
-# path to model files (Windows)
-# grade_4_math_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_4_math_model.sav')
-# grade_8_math_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_8_math_model.sav')
-# grade_4_read_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_4_read_model.sav')
-# grade_8_read_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_8_read_model.sav')
+# path to model files
+grade_4_math_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_4_math_model.sav')
+grade_8_math_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_8_math_model.sav')
+grade_4_read_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_4_read_model.sav')
+grade_8_read_model_file = os.path.join(os.getcwd(),'sav_model_files/grade_8_read_model.sav')
 
-# path to model files (MAC)
-grade_4_math_model_file = os.path.join(os.getcwd(),'sav_model_files\grade_4_math_model.sav')
-grade_8_math_model_file = os.path.join(os.getcwd(),'sav_model_files\grade_8_math_model.sav')
-grade_4_read_model_file = os.path.join(os.getcwd(),'sav_model_files\grade_4_read_model.sav')
-grade_8_read_model_file = os.path.join(os.getcwd(),'sav_model_files\grade_8_read_model.sav')
+
 
 # flask set up
 app = Flask(__name__)
