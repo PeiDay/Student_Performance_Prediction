@@ -25,7 +25,7 @@ Our mission: to find a correlation, or lack thereof, between these financial and
 * Homepage
 ![Homepage1.png](https://github.com/PeiDay/Student_Performance_Prediction/blob/main/static/images/Homepage1.png)
 
-  ![Homepage2.png](https://github.com/PeiDay/Student_Performance_Prediction/blob/main/static/ images/Homepage2.png)
+  ![Homepage2.png](https://github.com/PeiDay/Student_Performance_Prediction/blob/main/static/images/Homepage2.png)
 
 
 * State Analysis
